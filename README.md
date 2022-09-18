@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/logotos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="logotos" height="30" width="40" /></a>
 <a href="https://instagram.com/logotoss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="logotoss" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/logotos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="logotos" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/UCTPOTA2iSS-u4dUILzHl7gw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="logotos" height="30" width="40" /></a>
 <a href="https://discord.gg/VQx9KUhDUQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VQx9KUhDUQ" height="30" width="40" /></a>
 </p>
 
